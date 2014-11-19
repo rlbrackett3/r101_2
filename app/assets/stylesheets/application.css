@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300|Droid+Serif:700);
+body {
+  font-family: 'Lato', sans-serif;
+  color: #6b6b6b;
+  background-color: #f8f8f8; }
+
+h1 {
+  font-family: 'Droid Serif', serif;
+  font-weight: bold;
+  color: #3c3c3c; }
+
+::selection {
+  color: #b3d4fc; }
+
+/*# sourceMappingURL=application.css.map */
